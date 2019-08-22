@@ -1,2 +1,3 @@
 # hello-world
-A start yp
+A start up option.
+This is from the GitHub tutorial. 
